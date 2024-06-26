@@ -1,1 +1,1 @@
-ssh -i private/mariadb-private-key.pem ubuntu@ec2-43-205-240-218.ap-south-1.compute.amazonaws.com
+ssh -i private/mariadb-private-key.pem ubuntu@ec2-3-93-44-110.compute-1.amazonaws.com
