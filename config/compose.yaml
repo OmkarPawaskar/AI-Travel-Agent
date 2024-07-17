@@ -1,6 +1,7 @@
 services:
   db:
     image: mariadb:lts
+    container_name: maria
     restart: always
     ports:
       - 3306:3306
